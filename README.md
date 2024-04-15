@@ -17,45 +17,42 @@
 <table><tr>
 <td align="center">
   <img src="https://github.com/publdaze.png?v=4?s=100" width="100px;" alt=""/>
-  <br />
-  <sub>
-    <b>publdaze</b>
-    <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4"/>
-  </sub>
-  <br />
+  <br/>
+  <b>publdaze</b>
 </td>
 <td align="center">
   <img src="https://github.com/sososo0.png?v=4?s=100" width="100px;" alt=""/>
-  <br />
-  <sub>
-    <b>sososo0</b>
-    <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
-  </sub>
-  <br />
+  <br/>
+  <b>sososo0</b>
 </td>
 <td align="center">
   <img src="https://github.com/llddang.png?v=4?s=100" width="100px;" alt=""/>
-  <br />
-  <sub>
-    <b>llddang</b>
-    <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
-  </sub>
-  <br />
+  <br/>
+  <b>llddang</b>
 </td>
 <td align="center">
   <img src="https://github.com/pipisebastian.png?v=4?s=100" width="100px;" alt=""/>
-  <br />
-  <sub>
-    <b>pipisebastian</b>
-    <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
+  <br/>
+  <b>pipisebastian</b>
   </sub>
   <br />
 </td>
-</tr></table>
+</tr>
+<tr>
+<td align="center"><!-- publdaze 1회독 진행률 -->
+  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4"/>
+</td>
+<td align="center"><!-- sososo0 1회독 진행률 -->
+  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
+</td>
+<td align="center"><!-- llddang 1회독 진행률 -->
+  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
+</td>
+<td align="center"><!-- pipisebastian 1회독 진행률 -->
+  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
+</td>
+</tr>
+</table>
 
 #### Part1 운영체제
 
@@ -108,8 +105,17 @@
 
 1. 본인 아이디의 브랜치 생성합니다.
 2. `본인 아이디의 폴더/CS 핵심요약집 #회독` 폴더 내 파일을 생성하여 내용을 정리합니다.
-3. 체크리스트 칸 단위의 PR을 올리고 머지합니다.
-4. 체크리스트(✅ or `회독 수`)와 진행률을 업데이트 합니다.
-5. 모의 면접 or 발표 스터디 진행 후
+3. 정리된 내용을 커밋합니다.
+   - 커밋 양식 `본인 아이디: 정리한 범위`
+4. 체크리스트(✅ or `회독 수`)와 진행률(`칸 당 4%`)을 업데이트 후 커밋합니다.
+   - 커밋 양식 `docs: 체크리스트 반영`
+5. 체크리스트 칸 단위의 PR을 올리고 머지합니다.
+   - Assignee로 본인 지정
+   - Label로 `#회독`, `Part(ex. 운영체제)` 지정
+6. 모의 면접 or 발표 스터디 진행 후
+
    - 모의 면접 진행 시 - `본인 아이디의 폴더/면접 질문` 폴더에 본인이 받은 질문 정리해서 올리기
+     - Label로 `모의 면접`, `Part(ex. 운영체제)` 지정
    - 발표 진행 시 - `본인 아이디의 폴더/발표 자료` 폴더에 본인이 발표한 발표 자료 정리해서 올리기
+     - Label로 `발표`, `Part(ex. 운영체제)` 지정
+
