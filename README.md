@@ -21,7 +21,7 @@
   <sub>
     <b>publdaze</b>
     <br />
-    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
+    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4"/>
   </sub>
   <br />
 </td>
@@ -61,7 +61,7 @@
 
 | 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  | 4   | 5   | 6   | 7-8 |
 | :----------------------------------------------------------------- | :-: | :-: | :-: | --- | --- | --- | --- |
-| <center>[publdaze](https://github.com/publdaze)</center>           |
+| <center>[publdaze](https://github.com/publdaze)</center>           |     |     |     |     |     |     | 1️⃣  |
 | <center>[sososo0](https://github.com/sososo0)</center>             |
 | <center>[llddang](https://github.com/llddang)</center>             |
 | <center>[pipisebastian](https://github.com/pipisebastian)</center> |
