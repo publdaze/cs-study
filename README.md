@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td align="center"><!-- publdaze 1회독 진행률 -->
-  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/24"/>
+  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28"/>
 </td>
 <td align="center"><!-- sososo0 1회독 진행률 -->
   <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4"/>
@@ -61,17 +61,17 @@
 
 #### Part1 운영체제
 
-| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  | 4   | 5   | 6   | 7-8 |
-| :----------------------------------------------------------------- | :-: | :-: | :-: | --- | --- | --- | --- |
-| <center>[publdaze](https://github.com/publdaze)</center>           | 1️⃣  | 1️⃣  | 1️⃣  | 1️⃣  | 1️⃣  |     | 1️⃣  |
+| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  |  4  |  5  |  6  | 7-8 |                         1회독                         |
+| :----------------------------------------------------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :---------------------------------------------------: |
+| <center>[publdaze](https://github.com/publdaze)</center>           | 1️⃣  | 1️⃣  | 1️⃣  | 1️⃣  | 1️⃣  | 1️⃣  | 1️⃣  | [📝](publdaze/CS%20핵심요약집%201회독/P1_운영체제.md) |
 | <center>[sososo0](https://github.com/sososo0)</center>             | 1️⃣  |     |     |     |     |     |     |
 | <center>[llddang](https://github.com/llddang)</center>             |
 | <center>[pipisebastian](https://github.com/pipisebastian)</center> |
 
 #### Part2 컴퓨터 네트워크
 
-| 　　\　 ch<br>이름　\                                              |  1  |  2  | 3   | 4   | 5 - 6 |
-| :----------------------------------------------------------------- | :-: | :-: | --- | --- | ----- |
+| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  |  4  | 5 - 6 | 1회독 |
+| :----------------------------------------------------------------- | :-: | :-: | :-: | :-: | :---: | :---: |
 | <center>[publdaze](https://github.com/publdaze)</center>           |
 | <center>[sososo0](https://github.com/sososo0)</center>             |
 | <center>[llddang](https://github.com/llddang)</center>             |
@@ -79,8 +79,8 @@
 
 #### Part3 데이터베이스
 
-| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  |  4  | 5 - 6 |
-| :----------------------------------------------------------------- | :-: | :-: | :-: | :-: | :---: |
+| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  |  4  | 5 - 6 | 1회독 |
+| :----------------------------------------------------------------- | :-: | :-: | :-: | :-: | :---: | :---: |
 | <center>[publdaze](https://github.com/publdaze)</center>           |
 | <center>[sososo0](https://github.com/sososo0)</center>             |
 | <center>[llddang](https://github.com/llddang)</center>             |
@@ -88,8 +88,8 @@
 
 #### Part4 자료구조
 
-| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  | 4 - 5 |
-| :----------------------------------------------------------------- | :-: | :-: | :-: | ----- |
+| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  | 4 - 5 | 1회독 |
+| :----------------------------------------------------------------- | :-: | :-: | :-: | :---: | :---: |
 | <center>[publdaze](https://github.com/publdaze)</center>           |
 | <center>[sososo0](https://github.com/sososo0)</center>             |
 | <center>[llddang](https://github.com/llddang)</center>             |
@@ -97,8 +97,8 @@
 
 #### Part5 알고리즘
 
-| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  | 4 - 5 |
-| :----------------------------------------------------------------- | :-: | :-: | :-: | :---: |
+| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  | 4 - 5 | 1회독 |
+| :----------------------------------------------------------------- | :-: | :-: | :-: | :---: | :---: |
 | <center>[publdaze](https://github.com/publdaze)</center>           |
 | <center>[sososo0](https://github.com/sososo0)</center>             |
 | <center>[llddang](https://github.com/llddang)</center>             |
@@ -110,8 +110,8 @@
 
 #### 1주차
 
-|  발표자  |    Part    | 주제           | 발표자료                                   |
-| :------: | :--------: | -------------- | ------------------------------------------ |
+|  발표자  |    Part    | 주제           |                  발표자료                  |
+| :------: | :--------: | -------------- | :----------------------------------------: |
 | publdaze | `운영체제` | Process States | [📝](publdaze/발표자료/Process_States.pdf) |
 
 ## 📌 진행 방법
