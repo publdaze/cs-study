@@ -70,9 +70,9 @@
 
 #### Part2 컴퓨터 네트워크
 
-| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  |  4  | 5 - 6 | 1회독 |
-| :----------------------------------------------------------------- | :-: | :-: | :-: | :-: | :---: | :---: |
-| <center>[publdaze](https://github.com/publdaze)</center>           |
+| 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  |  4  | 5 - 6 |                         1회독                         |
+| :----------------------------------------------------------------- | :-: | :-: | :-: | :-: | :---: | :---------------------------------------------------: |
+| <center>[publdaze](https://github.com/publdaze)</center>           |     |     |     |     |  1️⃣   | [📝](publdaze/CS%20핵심요약집%201회독/P2_네트워크.md) |
 | <center>[sososo0](https://github.com/sososo0)</center>             |
 | <center>[llddang](https://github.com/llddang)</center>             |
 | <center>[pipisebastian](https://github.com/pipisebastian)</center> |
