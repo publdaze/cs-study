@@ -45,7 +45,7 @@
 </tr>
 <tr>
 <td align="center"><!-- publdaze 1회독 진행률 -->
-  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/52"/>
+  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/56"/>
 </td>
 <td align="center"><!-- sososo0 1회독 진행률 -->
   <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/4"/>
@@ -90,7 +90,7 @@
 
 | 　　\　 ch<br>이름　\                                              |  1  |  2  |  3  | 4 - 5 |                         1회독                         |
 | :----------------------------------------------------------------- | :-: | :-: | :-: | :---: | :---------------------------------------------------: |
-| <center>[publdaze](https://github.com/publdaze)</center>           | 1️⃣  |     |     |       | [📝](publdaze/CS%20핵심요약집%201회독/P4_자료구조.md) |
+| <center>[publdaze](https://github.com/publdaze)</center>           | 1️⃣  | 1️⃣  |     |       | [📝](publdaze/CS%20핵심요약집%201회독/P4_자료구조.md) |
 | <center>[sososo0](https://github.com/sososo0)</center>             |
 | <center>[llddang](https://github.com/llddang)</center>             |
 | <center>[pipisebastian](https://github.com/pipisebastian)</center> |
