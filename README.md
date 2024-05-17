@@ -54,7 +54,7 @@
   <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
 </td>
 <td align="center"><!-- pipisebastian 1회독 진행률 -->
-  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/0"/>
+  <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/28"/>
 </td>
 </tr>
 </table>
